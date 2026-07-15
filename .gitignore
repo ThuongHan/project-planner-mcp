@@ -62,4 +62,6 @@ node_modules/
 .wrangler/
 
 # vscode
-./vscode
+.vscode/
+
+.prettierrc/
